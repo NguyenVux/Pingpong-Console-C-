@@ -1,4 +1,4 @@
-# Pingpong-Console-C++
+# Ping Pong Console Game 
 
-Written in C++
+Written in C++ <br>
 Compatible with window only
